@@ -1,7 +1,7 @@
 <div align="center">
   <img src="icon.png" alt="MindfulGate Logo" width="110" height="110" style="border-radius: 24px;" />
   <h1>🌿 MindfulGate · 清醒门神</h1>
-  <p><strong>基于认知神经科学与正念交互的浏览器防沉迷插件</strong></p>
+  <p><strong>基于认知神经科学与正念交互的浏览器防沉迷插件🧠</strong></p>
   <p><em>A Neuroscience-Driven Chrome Extension to Break the Dopamine Loop & Doomscrolling.</em></p>
 
   <p>
