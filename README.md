@@ -1,4 +1,5 @@
 <div align="center">
+  <p align="center"><img src="demo.gif" alt="操作演示" width="85%" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);" /></p>
   <img src="icon.png" alt="MindfulGate Logo" width="110" height="110" style="border-radius: 24px;" />
   <h1>🌿 MindfulGate · 清醒门神</h1>
   <p><strong>基于认知神经科学与正念交互的浏览器防沉迷插件🧠</strong></p>
