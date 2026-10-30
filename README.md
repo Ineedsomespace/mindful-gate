@@ -73,3 +73,22 @@
 2. 打开 Chrome 或 Edge 浏览器，在顶部地址栏输入：
    ```text
    chrome://extensions/
+3. 打开页面右上角的 「开发者模式」 (Developer mode) 开关。
+4. 点击页面左上角的 「加载已解压的扩展程序」 (Load unpacked)。
+5. 选择你刚刚解压出来的 mindful-gate 文件夹，即可立即生效！
+
+---
+
+## 📂 极简项目结构 (Project Structure)
+
+mindful-gate/
+├── manifest.json   # Chrome 扩展配置文件 (Manifest V3)
+├── content.js      # 核心状态机、Shadow DOM 样式隔离与交互逻辑
+├── icon.png        # 插件鼠尾草绿正念大脑图标
+└── README.md       # 项目说明文档
+
+---
+
+## 📄 开源协议 (License)
+
+本项目基于 MIT License 开源，欢迎自由 Fork、修改与分享。愿我们都能做数字工具的主人，而不是算法的猎物。
