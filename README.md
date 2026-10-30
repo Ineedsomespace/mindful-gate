@@ -82,9 +82,13 @@
 ## 📂 极简项目结构 (Project Structure)
 
 mindful-gate/
+
 ├── manifest.json   # Chrome 扩展配置文件 (Manifest V3)
+
 ├── content.js      # 核心状态机、Shadow DOM 样式隔离与交互逻辑
+
 ├── icon.png        # 插件鼠尾草绿正念大脑图标
+
 └── README.md       # 项目说明文档
 
 ---
